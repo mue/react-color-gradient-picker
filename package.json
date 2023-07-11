@@ -1,5 +1,5 @@
 {
-  "name": "react-color-gradient-picker",
+  "name": "@muetab/react-color-gradient-picker",
   "description": "Color picker for react",
   "version": "0.1.2",
   "main": "./dist/index-cjs.js",
@@ -11,14 +11,14 @@
   "homepage": "https://arthay.github.io/react-color-gradient-picker/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arthay/react-color-gradient-picker.git"
+    "url": "https://github.com/mue/react-color-gradient-picker.git"
   },
   "bugs": {
-    "url": "https://github.com/arthay/react-color-gradient-picker/issues"
+    "url": "https://github.com/mue/react-color-gradient-picker/issues"
   },
   "peerDependencies": {
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
@@ -52,8 +52,8 @@
     "eslint-plugin-react-hooks": "^4.0.2",
     "gh-pages": "^2.2.0",
     "node-sass": "^4.14.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-scripts": "3.4.1",
     "rollup": "^2.10.5",
     "rollup-plugin-copy-assets": "^2.0.1",
